@@ -1,2 +1,2 @@
-# WAINEX PWA (flat)
-Struktura bez folderu `assets` (wszystko w root).
+# WAINEX PWA — poprawiona wersja pod GitHub Pages
+Pliki w root, poprawne nazwy.
